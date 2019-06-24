@@ -1,3 +1,7 @@
+
+https://github.com/ethinza/RBDSR/blob/v2.0/HOWTOs/Hyperconverged%20XenServer%20%28deployment%20example%29.md
+
+
 # RBDSR - XenServer 7.5 / XCP-ng 7.5 Storage Manager plugin for CEPH (v3.0) for SMAPIv3
 This plugin adds support for Ceph block devices into XenServer / XCP-ng.
 It supports the creation of VDI as RBD device in Ceph pool.
